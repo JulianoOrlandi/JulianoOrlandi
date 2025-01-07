@@ -14,7 +14,8 @@
     📈 Analista de Dados<br>
   📊 Cientista de Dados<br>
 
-<u>sublinhado</u>
+> 💡 Ideia importante: Continue aprendendo!
+
 
 
 
