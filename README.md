@@ -6,7 +6,7 @@
   🎸 Apaixonado por música<br>
 <br>
 📜 <strong>EXPERIÊNCIA PROFISSIONAL</strong><br>
-    👨‍🏫 Professor de Filosofia<br>
+  👨‍🏫 Professor de Filosofia<br>
     👨‍🔬 Pesquisador Acadêmico<br>
 <br>
 💼 <strong>NOVA CARREIRA</strong><br>
