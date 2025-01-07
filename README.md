@@ -5,11 +5,7 @@
 👩‍❤️‍👨 Casado<br>
 🎸 Apaixonado por música<br>
 <br>
-<strong>EXPERIÊNCIA PROFISSIONAL</strong><br>
-👨‍🏫 Professor de Filosofia<br>
-👨‍🔬 Pesquisador Acadêmico<br>
-<br>
-<strong>NOVA CARREIRA</strong><br>
+<strong>PERFIL PROFISSIONAL</strong><br>
 ⚙️ Analista de Sistemas<br>
 🖥 Desenvolvedor<br>
 📈 Analista de Dados<br>
