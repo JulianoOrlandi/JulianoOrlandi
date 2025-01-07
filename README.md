@@ -1,15 +1,9 @@
 ## Olá, eu me chamo Juliano Orlandi!
-
-
-
-
-🙎‍♂️ **Sobre mim**
-
-⌛ 42 anos
-
-👩‍❤️‍👨 Casado
-
-🎸 Apaixonado por música
+---------------------------------------------------------------------------------------------<br><br><br><br>
+🙎‍♂️ **Sobre mim**<br>
+⌛ 42 anos<br>
+👩‍❤️‍👨 Casado<br>
+🎸 Apaixonado por música<br>
 
 
 
