@@ -1,10 +1,13 @@
 ## Olá, eu me chamo Juliano Orlandi!
-<br><br>
+<br>
 🙎‍♂️ **SOBRE MIM**<br>
 ⌛ 42 anos<br>
 👩‍❤️‍👨 Casado<br>
 🎸 Apaixonado por música<br>
-
+<br>
+📜 **EXPERIÊNCIA**<br>
+👨‍🏫 Professor de Filosofia<br>
+👨‍🔬 Pesquisador Acadêmico<br>
 
 
 
