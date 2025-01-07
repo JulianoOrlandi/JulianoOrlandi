@@ -1,30 +1,18 @@
 ## Olá, eu me chamo Juliano Orlandi!
 <br>
-🙎‍♂️ <strong>SOBRE MIM</strong><br>
-  ⌛ 42 anos<br>
-  👩‍❤️‍👨 Casado<br>
-  🎸 Apaixonado por música<br>
+<strong>SOBRE MIM</strong><br>
+⌛ 42 anos<br>
+👩‍❤️‍👨 Casado<br>
+🎸 Apaixonado por música<br>
 <br>
-📜 <strong>EXPERIÊNCIA PROFISSIONAL</strong><br>
-  👨‍🏫 Professor de Filosofia<br>
-    👨‍🔬 Pesquisador Acadêmico<br>
+<strong>EXPERIÊNCIA PROFISSIONAL</strong><br>
+👨‍🏫 Professor de Filosofia<br>
+👨‍🔬 Pesquisador Acadêmico<br>
 <br>
-💼 <strong>NOVA CARREIRA</strong><br>
-  🖥 Desenvolvedor<br>
-    📈 Analista de Dados<br>
-  📊 Cientista de Dados<br>
-
-> 💡 Ideia importante: Continue aprendendo!
-
-
-Meu nome é
-  Juliano
-
-Meu nome é
-  Juliano
-
-Meu nome é
-    Juliano
+<strong>NOVA CARREIRA</strong><br>
+🖥 Desenvolvedor<br>
+📈 Analista de Dados<br>
+📊 Cientista de Dados<br>
 
 
 <!--
