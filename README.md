@@ -6,10 +6,10 @@
 🎸 Apaixonado por música<br>
 <br>
 <strong>PERFIL PROFISSIONAL</strong><br>
-⚙️ Analista de Sistemas<br>
-🖥 Desenvolvedor<br>
-📈 Analista de Dados<br>
 📊 Cientista de Dados<br>
+📈 Analista de Dados<br>
+🖥 Desenvolvedor<br>
+⚙️ Analista de Sistemas<br>
 <br>
 <strong>TRABALHANDO EM</strong><br>
 🛠️ Projetos Pessoais<br>
