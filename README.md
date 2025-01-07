@@ -1,6 +1,6 @@
 ## Olá, eu me chamo Juliano Orlandi!
 <br>
-🙎‍♂️ <u><strong>SOBRE MIM</strong></u><br>
+🙎‍♂️ <strong><u>SOBRE MIM</u></strong><br>
 ⌛ 42 anos<br>
 👩‍❤️‍👨 Casado<br>
 🎸 Apaixonado por música<br>
@@ -14,7 +14,7 @@
 📈 Analista de Dados<br>
 📊 Cientista de Dados<br>
 
-
+<u>sublinhado</u>
 
 
 
