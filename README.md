@@ -13,6 +13,18 @@
 🖥 Desenvolvedor<br>
 📈 Analista de Dados<br>
 📊 Cientista de Dados<br>
+<br>
+<strong>TRABALHANDO EM</strong><br>
+🛠️ Projetos Pessoais<br>
+👨‍💻 Portfólio em Ciência de Dados<br>
+<br>
+<strong>Tecnologias</strong>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+
+
+
 
 
 <!--
